@@ -6,9 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/RetroAesthetics/Demos/Menu/Menu.unity
+    path: Assets/Ceyda/Scenes/Menu/Menu.unity
     guid: 0dc85c021826545c68e5aed9ca83e70c
   - enabled: 1
-    path: Assets/RetroAesthetics/Demos/Game/Game.unity
+    path: Assets/Ceyda/Scenes/Game/Game.unity
     guid: 498511ebc7ee24cf1be70590e845ec46
   m_configObjects: {}
